@@ -1,4 +1,4 @@
-# Mp3Splitter
+# Automated-Mp3-Splitter
 
 Splits a single MP3 file into individual tracks using track data from MusicBrainz. Generates a CUE sheet from the release's track listing, then uses `mp3splt` to split the file.
 
